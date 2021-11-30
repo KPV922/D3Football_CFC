@@ -1544,7 +1544,7 @@
 				}
 			],
 			"confFullName": "Pacific Coast",
-			"confPrestige": "65",
+			"confPrestige": "70",
 			"confName": "PC"
 		},
 		{
@@ -2060,7 +2060,7 @@
 				}
 			],
 			"confFullName": "Southern",
-			"confPrestige": "63",
+			"confPrestige": "67",
 			"confName": "SOU"
 		},
 		{
@@ -2469,7 +2469,7 @@
 						"name": "Gary Fasching",
 						"contractYear": "0"
 					},
-					"name": "Saint John's Johnnies",
+					"name": "Saint Johns Johnnies",
 					"state": "Minnesota"
 				},
 				{
@@ -2575,8 +2575,8 @@
 					"state": "Minnesota"
 				}
 			],
-			"confFullName": "Pacific Athletic Conference",
-			"confPrestige": "64",
+			"confFullName": "Frontier",
+			"confPrestige": "73",
 			"confName": "PAC10"
 		},
 		{
