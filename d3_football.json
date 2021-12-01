@@ -3152,7 +3152,7 @@
 					"state": "Massachusetts"
 				},
 {
-					"abbreviation": "SALVE",
+					"abbreviation": "SALV",
 					"prestige": "83",
 					"hexColor": "#012849",
 					"offCoordinator": {
@@ -3287,7 +3287,7 @@
 						"name": "Steve Faniel",
 						"contractYear": "0"
 					},
-					"rival": "SALVE",
+					"rival": "SALV",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3338,7 +3338,7 @@
 						"name": "Louis DiRienzo",
 						"contractYear": "0"
 					},
-					"rival": "USCGA",
+					"rival": "USCG",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3358,7 +3358,7 @@
 					"state": "Massachusetts"
 				},
 				{
-					"abbreviation": "USCGA",
+					"abbreviation": "USCG",
 					"prestige": "61",
 					"hexColor": "#FF6501",
 					"offCoordinator": {
@@ -3512,7 +3512,7 @@
 					"state": "Massachusetts"
 				},
 				{
-					"abbreviation": "TUFTS",
+					"abbreviation": "TUFT",
 					"prestige": "68",
 					"hexColor": "#4F91CD",
 					"offCoordinator": {
@@ -3594,7 +3594,7 @@
 						"name": "Kyle McAllister",
 						"contractYear": "0"
 					},
-					"rival": "TUFTS",
+					"rival": "TUFT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3977,7 +3977,7 @@
 					"state": "Ohio"
 				},
 				{
-					"abbreviation": "FRANK",
+					"abbreviation": "FRNK",
 					"prestige": "74",
 					"hexColor": "#021B39",
 					"offCoordinator": {
@@ -4059,7 +4059,7 @@
 						"name": "Cayleel Hill",
 						"contractYear": "0"
 					},
-					"rival": "FRANK",
+					"rival": "FRNK",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4652,7 +4652,7 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "DELVA",
+					"abbreviation": "DLVA",
 					"prestige": "88",
 					"hexColor": "#144D29",
 					"offCoordinator": {
@@ -4734,7 +4734,7 @@
 						"name": "Kory David",
 						"contractYear": "0"
 					},
-					"rival": "DELVA",
+					"rival": "DLVA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4887,7 +4887,7 @@
 						"name": "Edwyn Edwards",
 						"contractYear": "0"
 					},
-					"rival": "ROWAN",
+					"rival": "RWAN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4907,7 +4907,7 @@
 					"state": "New Jersey"
 				},
 				{
-					"abbreviation": "ROWAN",
+					"abbreviation": "RWAN",
 					"prestige": "56",
 					"hexColor": "#FFCC00",
 					"offCoordinator": {
@@ -4958,7 +4958,7 @@
 					"state": "New Jersey"
 				},
 				{
-					"abbreviation": "GETTY",
+					"abbreviation": "GETT",
 					"prestige": "47",
 					"hexColor": "#002F6C",
 					"offCoordinator": {
@@ -5040,7 +5040,7 @@
 						"name": "Joe Dougherty",
 						"contractYear": "0"
 					},
-					"rival": "GETTY",
+					"rival": "GETT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -5474,7 +5474,7 @@
 					"state": "Ohio"
 				},
 				{
-					"abbreviation": "BTHNY",
+					"abbreviation": "BTNY",
 					"prestige": "45",
 					"hexColor": "#00573D",
 					"offCoordinator": {
@@ -5556,7 +5556,7 @@
 						"name": "Vann Hunt",
 						"contractYear": "0"
 					},
-					"rival": "BTHNY",
+					"rival": "BTNY",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -5684,7 +5684,7 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "SALIS",
+					"abbreviation": "SALI",
 					"prestige": "83",
 					"hexColor": "#700000",
 					"offCoordinator": {
@@ -5868,7 +5868,7 @@
 						"name": "Mario Byrd",
 						"contractYear": "0"
 					},
-					"rival": "SALIS",
+					"rival": "SALI",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
